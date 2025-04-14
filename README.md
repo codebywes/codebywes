@@ -12,12 +12,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera, apaixonad
 
 🌱 Sempre aprendendo e buscando novos desafios
 
-🛠️ Tecnologias que uso:
+🛠️ Tecnologias que uso: Python / Vs Code
 
 
 
 
-📫 Vamos nos conectar:
+📫 Vamos nos conectar: www.linkedin.com/in/weslen-silva-98a0442aa
 
 
 
